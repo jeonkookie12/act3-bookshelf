@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Railey-PersonalUSe';
+  src: url('public/fonts/Railey-PersonalUSe.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'nourd-regular';
+  src: url('public/fonts/nourd_regular.ttf') format('truetype');
+}
+
+.font-railey {
+  font-family: 'poppins', cursive;
+}
+
+.font-nourd {
+  font-family: 'poppins', sans-serif;
+}
